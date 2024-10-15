@@ -4,7 +4,7 @@
 
 export const environment = {
   production: true,
-  api: 'http://192.168.0.16:3000/api/1.0'
+  api: 'https://api-angularfy.onrender.com/api/1.0'
 };
 
 /*
